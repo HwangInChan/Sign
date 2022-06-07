@@ -52,4 +52,4 @@ foreach ([
          ] as $str)
     echo $str . PHP_EOL;
 
-?>
+?>.
